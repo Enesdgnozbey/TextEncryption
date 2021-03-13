@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextEncryption", "TextEncryption\TextEncryption.csproj", "{1C01203C-FBA9-402B-AB5C-C2113F604D68}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C01203C-FBA9-402B-AB5C-C2113F604D68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C01203C-FBA9-402B-AB5C-C2113F604D68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C01203C-FBA9-402B-AB5C-C2113F604D68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C01203C-FBA9-402B-AB5C-C2113F604D68}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2DAC4D2A-D834-42F0-8FC4-ACE23B4F09EE}
+	EndGlobalSection
+EndGlobal
